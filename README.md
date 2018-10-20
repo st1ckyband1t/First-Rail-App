@@ -1,3 +1,3 @@
 # README
 
-Just setting up my system for The Odin Project.
+First Ruby on Rails app about cars.
